@@ -12,7 +12,7 @@ This project is a Kotlin-based command-line tool for managing VAPID (Voluntary A
 
 2. **Run the application**:
    ```bash
-   java -jar build/libs/native-push-vapid.jar [options]
+   java -jar native-push-vapid.jar [options]
    ```
 
 ## Usage
