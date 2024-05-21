@@ -65,7 +65,7 @@ The application accepts a combination of the following arguments:
 - [Native Push Client](https://github.com/Native-Push/native_push_client): The Flutter library to be used with `Native Push Server`
 - [Native Push Server](https://github.com/Native-Push/native_push_server): The server which can be used as a microservices and a
   library which can be used for an own server.
-- [Native Push Notification Service](): Library which should be used to show images on notifications send with
+- [Native Push Notification Service](https://github.com/Native-Push/native_push_notification_service): Library which should be used to show images on notifications send with
   `Native Push` to an iOS system
 
 ## Contributing
